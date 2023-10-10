@@ -4,8 +4,11 @@ Funcionando com Baileys 6.5.0 - Setembro de 2023 </br>
 </br> Atualizado referencias para a bilioteca @WhiskeySockets/Baileys</br>
 Modificado AnyWASocket, WALegacySocket, LegacyAuthenticationCreds</br>
 Corrigio Bot repete Menu</br>
+
 Atualizações Fontend
-Adcionado Tema Escuro
+Adicionado Tema Escuro
+Adcionado Módulo Kanban
+
 </br> Adicionado conexões Insta e Facebook - Em Revisão (Biblioteca desatualizada 9/13, meta 16)
 </br> Adicionado Lista de Tarefas (Função que usa o cache do navegador)
 
