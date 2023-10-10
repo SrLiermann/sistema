@@ -56,11 +56,10 @@ frontend\src\pages\Chat\ChatList.js</br>
 
 ** Comando para rebuild, caminho absoluto /home/deploy/"nome"/
   
-```bash
 cd /frontend
 npm run build
 
-
+```bash
 URL WEBHOOK META:
 
 ```bash
