@@ -48,6 +48,9 @@ Personalizações:
 ** Cores do Chat Interno:
 frontend\src\pages\Chat\ChatList.js</br>
 
+** Cores da Lista de Tarefas
+/frontend/src/pages/ToDoList/index.js
+
 ** Logo e LogoLogin:
 /frontend/src/assets
 
