@@ -1,5 +1,5 @@
 # WhaTicket Saas com Kanban</br>
-Está é uma versão em testes, não recomendamos o uso em produção. </br>
+Está é uma versão exclusiva licencas.digital by launcher, e conta com modo noturno e módulo kanban. </br>
 Funcionando com Baileys 6.5.0 - Setembro de 2023 </br>
 </br> Atualizado referencias para a bilioteca @WhiskeySockets/Baileys</br>
 Modificado AnyWASocket, WALegacySocket, LegacyAuthenticationCreds</br>
