@@ -31,6 +31,7 @@ const useStyles = makeStyles({
     height: '100%',
     marginTop: '1rem',
     backgroundColor: '#007aff',
+    color: '#fafafa',
     borderRadius: '5px',
   },
   list: {
