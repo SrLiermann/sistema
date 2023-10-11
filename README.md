@@ -28,16 +28,16 @@ Midia no Chat > Não testado</br>
 Escutar Audios > Não testado </br>
 Localização Fixa > Não testado - Não funciona em tempo real, mesmo na api oficial</br>
 
-Planos Futuros:
-Atualização de Material UI 4 para MUI 5
-Correção de Webhook Facebook (Messenger e Direct).
+Planos Futuros:</br>
+Atualização de Material UI 4 para MUI 5</br>
+Correção de Webhook Facebook (Messenger e Direct).</br>
 
-Em Observação:
+Em Observação:</br>
 Tickets de Admin são fechados automaticamente na avaliação </br>
-(verificar se corrigiu) Tickets de usuários recebem a nota e só fecham e enviam disparo da mensagem de encerramento quando clica novamente em resolver.
+(verificar se corrigiu) Tickets de usuários recebem a nota e só fecham e enviam disparo da mensagem de encerramento quando clica novamente em resolver.</br>
 Ao modificar gerenciamento de horários limpe as configurações anteriores primeiro.
 
-Personalizações:
+Personalizações:</br>
 
 ** Alterar Cor Primária: (#007aff)</br>
 /frontend/src/config.json</br>
