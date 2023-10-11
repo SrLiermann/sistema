@@ -9,7 +9,7 @@ Atualizações Fontend</br>
 Adicionado Tema Escuro</br>
 Adcionado Módulo Kanban
 
-</br> Adicionado conexões Insta e Facebook - Em Revisão (Biblioteca desatualizada 9/13, meta 16)
+Adicionado conexões Insta e Facebook - Em Revisão (Biblioteca desatualizada 9/13, meta 16)
 </br> Adicionado Lista de Tarefas (Função que usa o cache do navegador)
 
 </br>Tipo de Chatbot = Somente Texto <br> Removido as opções depreciadas, Listas e Botões.
