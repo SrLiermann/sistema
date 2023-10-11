@@ -5,9 +5,9 @@ Funcionando com Baileys 6.5.0 - Setembro de 2023 </br>
 Modificado AnyWASocket, WALegacySocket, LegacyAuthenticationCreds</br>
 Corrigio Bot repete Menu</br>
 
-Atualizações Fontend<:/br>
+Atualizações Fontend:</br>
 Adicionado Tema Escuro</br>
-Adcionado Módulo Kanban
+Adicionado Módulo Kanban
 
 Adicionado conexões Insta e Facebook - Em Revisão (Biblioteca desatualizada 9/13, meta 16)
 </br> Adicionado Lista de Tarefas (Função que usa o cache do navegador)
