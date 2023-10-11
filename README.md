@@ -5,16 +5,16 @@ Funcionando com Baileys 6.5.0 - Setembro de 2023 </br>
 Modificado AnyWASocket, WALegacySocket, LegacyAuthenticationCreds</br>
 Corrigio Bot repete Menu</br>
 
-Atualizações Fontend</br>
+Atualizações Fontend<:/br>
 Adicionado Tema Escuro</br>
 Adcionado Módulo Kanban
 
 Adicionado conexões Insta e Facebook - Em Revisão (Biblioteca desatualizada 9/13, meta 16)
 </br> Adicionado Lista de Tarefas (Função que usa o cache do navegador)
 
-</br>Tipo de Chatbot = Somente Texto <br> Removido as opções depreciadas, Listas e Botões.
+Tipo de Chatbot = Somente Texto <br> Removido as opções depreciadas, Listas e Botões.
 
-</br> Não é necessário estar com celular ativo e conectado a internet para receber mensagens.
+Não é necessário estar com celular ativo e conectado a internet para receber mensagens.
 Respostas Rápidas > OK</br
 Envio de mídia > OK </br>
 Agendamento de mensagens > OK </br>
