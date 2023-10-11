@@ -12,7 +12,7 @@ Adcionado Módulo Kanban
 </br> Adicionado conexões Insta e Facebook - Em Revisão (Biblioteca desatualizada 9/13, meta 16)
 </br> Adicionado Lista de Tarefas (Função que usa o cache do navegador)
 
-Tipo de Chatbot = Somente Texto <br> Removido as opções depreciadas, Listas e Botões.
+</br>Tipo de Chatbot = Somente Texto <br> Removido as opções depreciadas, Listas e Botões.
 
 </br> Não é necessário estar com celular ativo e conectado a internet para receber mensagens.
 Respostas Rápidas > OK</br
@@ -45,16 +45,16 @@ Personalizações:
 /frontend/src/layout/index.js
 /frontend\src\pages\Chat\ChatMessages.js
 
-** Cores do Chat Interno:
+** Cores do Chat Interno:</br>
 frontend\src\pages\Chat\ChatList.js</br>
 
-** Cores da Lista de Tarefas
+** Cores da Lista de Tarefas</br>
 /frontend/src/pages/ToDoList/index.js
 
-** Logo e LogoLogin:
+** Logo e LogoLogin:</br>
 /frontend/src/assets
 
-** Icone e Favicon:
+** Icone e Favicon:</br>
 /frontend/public
 
 ** Comando para rebuild, caminho absoluto /home/deploy/"nome"/
