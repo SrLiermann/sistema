@@ -275,7 +275,6 @@ const MainListItems = (props) => {
       />
 
       <ListItem
-        dense
         button
         onClick={() => setOpenKanbanSubmenu((prev) => !prev)}
       >
@@ -297,7 +296,7 @@ const MainListItems = (props) => {
         timeout="auto"
         unmountOnExit
       >
-        <List dense component="div" disablePadding>
+        <List component="div" disablePadding>
           <ListItem onClick={() => history.push("/kanban")} button>
             <ListItemIcon>
               <ListIcon />
